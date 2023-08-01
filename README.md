@@ -5,7 +5,7 @@
 ### Api Gateway para tomar los archivos que se agreguen en la pagina:http://globant-host-web.s3-website-us-east-1.amazonaws.com/ 
   Esta pagina esta creada para tomar todos los archivos que agreguen y ejecutar el api gateway para transferir estos archivos a un bucket s3: globant-files
 
-### buckets en s3: 
+### Buckets en s3: 
    globant-files: se usa para recibir los archivos que envia la api.
    globant-files-error: se usa para guardar los insert que generen error y se pueda ver que informacion quedo sin ingestar en la base de datos.
    globant-files-post-stage: se usa para guardar los archivos que se fueron ingestando correctamente.
@@ -24,4 +24,5 @@
 ### Archivos sql Ejercicio2 :
   Se encuentra las consultas para resolver los enunciados:
 
-    ![image](https://github.com/AlejandroGuedez/Globanttest/assets/69370624/9ec96403-bf0e-43dc-afe2-e78241193389)
+    ![image](https://github.com/AlejandroGuedez/Globanttest/assets/69370624/fa5f5443-4567-489b-b33f-3f74daef45fe)
+
