@@ -1,6 +1,6 @@
 # Globanttest
 
-## Se crea en la cuenta de AWS 667783558859 lo siguiente:
+## Se crea en la cuenta de AWS lo siguiente:
 
 ### Cargar los archivos en la pagina:http://globant-host-web.s3-website-us-east-1.amazonaws.com/ 
   Esta pagina esta creada para tomar todos los archivos que agreguen y ejecutar el api gateway para transferir estos archivos a un bucket s3: globant-files
