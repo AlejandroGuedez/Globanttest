@@ -29,3 +29,6 @@
 
     ![image](https://github.com/AlejandroGuedez/Globanttest/assets/69370624/fa5f5443-4567-489b-b33f-3f74daef45fe)
 
+Puntos a mejorar: en el lambda lo mejor seria obtener los datos de la base de datos extraidos por otra funcion y haseada y/o codificada para que no sea de facil  acceso a los datos.
+
+Adicional se crea un crawler para que una vez los archivos esten en globant-files-post-stage se pueda cargar en athena, sin embargo,no se configura eventos para que se dispare automanticamente.
